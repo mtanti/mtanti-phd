@@ -1,0 +1,1 @@
+https://cs.stanford.edu/people/karpathy/deepimagesent/caption_datasets.zip (just dataset_flickr8k.json, rename to dataset.json)

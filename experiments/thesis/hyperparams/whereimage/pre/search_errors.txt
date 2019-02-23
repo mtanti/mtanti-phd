@@ -1,0 +1,1 @@
+#	init_method	max_init_weight	embed_size	rnn_size	post_image_size	pre_output_size	post_image_activation	rnn_type	optimizer	learning_rate	normalize_image	weights_reg_weight	image_dropout_prob	post_image_dropout_prob	embedding_dropout_prob	rnn_dropout_prob	max_gradient_norm	minibatch_size	beam_width	error	duration

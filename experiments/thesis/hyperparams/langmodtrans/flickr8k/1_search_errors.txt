@@ -1,0 +1,5 @@
+#	init_method	max_init_weight	embed_size	rnn_size	post_image_size	pre_output_size	post_image_activation	rnn_type	optimizer	learning_rate	normalize_image	weights_reg_weight	image_dropout_prob	post_image_dropout_prob	embedding_dropout_prob	rnn_dropout_prob	max_gradient_norm	minibatch_size	beam_width	error	duration
+10	normal	0.0015882474571869937	343	435	None	None	none	gru	rmsprop	0.1147358307211886	False	4.494406196540791e-05	0.0	0.0	0.32579095976599987	0.3284080948340906	1.1352570779235456	51	1	infpplx	109
+59	normal	0.4716811154804643	294	385	None	None	none	gru	rmsprop	0.1562617777723446	False	5.55679786215e-09	0.0	0.0	0.09994023936576854	0.3900171516808148	21.91025730002517	175	1	infpplx	139
+60	xavier_normal	0.4721791893315955	264	400	None	None	none	gru	rmsprop	0.740251934745007	False	5.5191453317e-10	0.0	0.0	0.2860620207481967	0.018120546478873515	3.53952856292859	81	1	infpplx	80
+76	normal	0.4516655319346924	407	468	None	None	none	gru	adam	0.03877497923992648	False	1.09573924735e-09	0.0	0.0	0.2905670196273553	0.284246141121604	186.32375000779888	66	1	infpplx	471

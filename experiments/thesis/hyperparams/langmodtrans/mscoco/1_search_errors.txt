@@ -1,0 +1,2 @@
+#	init_method	max_init_weight	embed_size	rnn_size	post_image_size	pre_output_size	post_image_activation	rnn_type	optimizer	learning_rate	normalize_image	weights_reg_weight	image_dropout_prob	post_image_dropout_prob	embedding_dropout_prob	rnn_dropout_prob	max_gradient_norm	minibatch_size	beam_width	error	duration
+46	normal	0.7861865875154459	446	445	None	None	none	gru	adam	4.956984680155159e-05	False	3.43779642021e-09	0.0	0.0	0.41228289633415277	0.05774061451102215	1.382569643892914	43	1	infpplx	797
